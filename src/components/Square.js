@@ -7,15 +7,13 @@ const Button = styled.button`
 
   border: 1px solid #999;
   float: left;
-  font-size: 35px;
+  font-size: 20px;
   font-weight: bold;
-  line-height: 50px;
-  height: 50px;
   margin-right: -1px;
   margin-top: -1px;
-  padding: 0;
+  padding: 1px;
   text-align: center;
-  width: 50px;
+  border: solid 1px black;
   outline: none;
 `;
 
